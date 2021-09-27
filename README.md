@@ -4,9 +4,10 @@
 
 - Create your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
 - Once you have a Github account, sign up for an account at <https://app.netlify.com/signup> and log in using your Github account
-- Create a new public repo for your portfolio website & initialize it with a "readme" file.
-- Turn your repo into a default website, using the steps outlined in <https://mam2022.netlify.app/assignment/01-project/>
+- Create a new public repo for your individidual assignment & initialize it with a "readme" file.
+- If you decide to do a portfolio website, turn your repo into a default website, using the steps outlined in <https://mam2022.netlify.app/assignment/01-project/>
        - modify content if you like, but for now it's fine to use the theme content provided and just change your name, email address, etc.
+- If you decide to work on a shiny app, just add the github repo-- I will share some code to get you started later on.
 - Locate class repo
     - Find "kostis-christodoulou" in GitHub and locate the "github-practice-ca09-2021" repo
     - Click on "README.md" >> Edit (pencil icon in upper right)
